@@ -4,6 +4,7 @@ build/
 out/
 coverage/
 results/
+allure-results/
 playwright-report/
 *.log
 *.lock
