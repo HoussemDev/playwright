@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+out/
+coverage/
+results/
+playwright-report/
+*.log
+*.lock
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+
+# Playwright specific
+test-results/
+playwright/.cache/
+trace.zip
